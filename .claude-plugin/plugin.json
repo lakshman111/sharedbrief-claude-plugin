@@ -15,5 +15,10 @@
     "briefs",
     "engagement"
   ],
-  "repository": "https://github.com/lakshman111/sharedbrief-claude-plugin"
+  "repository": "https://github.com/lakshman111/sharedbrief-claude-plugin",
+  "displayName": "SharedBrief",
+  "documentationUrl": "https://www.sharedbrief.com/help",
+  "supportUrl": "https://www.sharedbrief.com/help",
+  "privacyPolicyUrl": "https://www.sharedbrief.com/privacy",
+  "termsOfServiceUrl": "https://www.sharedbrief.com/terms"
 }
