@@ -1,0 +1,19 @@
+{
+  "name": "sharedbrief",
+  "version": "1.0.0",
+  "description": "Create buyer follow-up briefs, proposals, and business cases; share stable links and review approximate reader engagement with SharedBrief.",
+  "author": {
+    "name": "SnuffleLabs LLC",
+    "email": "support@sharedbrief.com",
+    "url": "https://www.sharedbrief.com"
+  },
+  "homepage": "https://www.sharedbrief.com/help",
+  "keywords": [
+    "sales",
+    "proposals",
+    "buyer-follow-up",
+    "briefs",
+    "engagement"
+  ],
+  "repository": "https://github.com/lakshman111/sharedbrief-claude-plugin"
+}
