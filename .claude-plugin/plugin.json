@@ -1,7 +1,7 @@
 {
   "name": "sharedbrief",
-  "version": "1.0.0",
-  "description": "Create buyer follow-up briefs, proposals, and business cases; share stable links and review approximate reader engagement with SharedBrief.",
+  "version": "1.1.0",
+  "description": "Create and share briefs for sales, founders, consulting, agencies, recruiting, real estate, creators, and teams with 66 focused skills and approximate engagement insights.",
   "author": {
     "name": "SnuffleLabs LLC",
     "email": "support@sharedbrief.com",
@@ -9,10 +9,12 @@
   },
   "homepage": "https://www.sharedbrief.com/help",
   "keywords": [
+    "documents",
     "sales",
     "proposals",
-    "buyer-follow-up",
-    "briefs",
+    "consulting",
+    "recruiting",
+    "creators",
     "engagement"
   ],
   "repository": "https://github.com/lakshman111/sharedbrief-claude-plugin",
