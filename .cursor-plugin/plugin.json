@@ -1,0 +1,30 @@
+{
+  "name": "sharedbrief",
+  "version": "1.1.0",
+  "description": "Create and share briefs for sales, founders, consulting, agencies, recruiting, real estate, creators, and teams with 66 focused skills and approximate engagement insights.",
+  "author": {
+    "name": "SnuffleLabs LLC",
+    "email": "support@sharedbrief.com",
+    "url": "https://www.sharedbrief.com"
+  },
+  "homepage": "https://www.sharedbrief.com/help",
+  "keywords": [
+    "documents",
+    "sales",
+    "proposals",
+    "consulting",
+    "recruiting",
+    "creators",
+    "engagement"
+  ],
+  "repository": "https://github.com/lakshman111/sharedbrief-claude-plugin",
+  "displayName": "SharedBrief",
+  "documentationUrl": "https://www.sharedbrief.com/help",
+  "supportUrl": "https://www.sharedbrief.com/help",
+  "privacyPolicyUrl": "https://www.sharedbrief.com/privacy",
+  "termsOfServiceUrl": "https://www.sharedbrief.com/terms",
+  "license": "Proprietary",
+  "logo": ".claude-plugin/icon.png",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
