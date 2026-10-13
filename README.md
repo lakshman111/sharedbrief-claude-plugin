@@ -1,6 +1,6 @@
 # SharedBrief
 
-Create readable, shareable business documents from selected content in Claude. SharedBrief combines one authenticated remote connector with 66 original skills: 63 document workflows, two writing/design skills, and an engagement-review skill.
+Create readable, shareable business documents from selected content in Claude, Cursor, or Grok Build. SharedBrief combines one authenticated remote connector with 66 original skills: 63 document workflows, two writing/design skills, and an engagement-review skill.
 
 ## Start with one useful document
 
@@ -42,3 +42,7 @@ The package contains readable instructions, a local shared reference, an icon, a
 [Help](https://www.sharedbrief.com/help) · [Privacy](https://www.sharedbrief.com/privacy) · [Terms](https://www.sharedbrief.com/terms)
 
 Contact support@sharedbrief.com. Operated by SnuffleLabs LLC.
+
+## Marketplace compatibility
+
+This source contains Claude and Cursor manifests. Grok Build accepts the Claude manifest. Cursor uses `mcp.json`; Claude and Grok Build use `.mcp.json`. Both configurations declare the same authenticated endpoint. Marketplace submission does not mean approval or native execution verification. The repository name is retained for stable existing Claude review references.

@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "sharedbrief": { "type": "http", "url": "https://www.sharedbrief.com/mcp" }
+  }
+}
