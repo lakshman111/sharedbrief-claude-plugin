@@ -8,6 +8,8 @@ This reference describes the existing service. Follow the user's actual request 
 
 ### Design the document before saving
 
+Read [the editorial design default](document-design.md) before composing a visual document. This is the default quality bar for proposals, sales memos, pitches, one-pagers and business briefs, without requiring a separate styling request. Follow an explicit user brand, format or reference in preference to the house style.
+
 For a sales proposal, pitch, one-pager, or visual brief, default to a composed responsive static HTML/CSS document when the connected schema supports it. The user does not need to separately ask for styling. Honor an explicit request for plain text, a traditional memo, or structured blocks; preserve an existing document's design during narrow edits.
 
 Use `content: {format: "html", mode: "static", title, html}` with a self-contained `<style>` block and body markup. Build a purposeful hero with a strong headline and short lead, clear type hierarchy, generous whitespace, restrained brand-appropriate color, and compact sections. Choose responsive columns, a comparison table, or phased next-step panels when the information benefits. One-page means editing and grouping the content into a compact composition; do not shrink type, clip overflow, or force a fixed page height. Columns must stack on narrow screens. Use system fonts and mobile media queries. SharedBrief supplies viewport and security metadata.
