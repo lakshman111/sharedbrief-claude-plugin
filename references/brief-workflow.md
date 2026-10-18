@@ -8,7 +8,7 @@ This reference describes the existing service. Follow the user's actual request 
 
 ### Design the document before saving
 
-Read [the editorial design default](document-design.md) before composing a visual document. This is the default quality bar for proposals, sales memos, pitches, one-pagers and business briefs, without requiring a separate styling request. Follow an explicit user brand, format or reference in preference to the house style.
+Read [the content-led design default](document-design.md) before composing a visual document. This is the default quality bar for proposals, sales memos, pitches, one-pagers and business briefs, without requiring a separate styling request. Follow an explicit user brand, format or reference in preference to the house style.
 
 For a sales proposal, pitch, one-pager, or visual brief, default to a composed responsive static HTML/CSS document when the connected schema supports it. The user does not need to separately ask for styling. Honor an explicit request for plain text, a traditional memo, or structured blocks; preserve an existing document's design during narrow edits.
 

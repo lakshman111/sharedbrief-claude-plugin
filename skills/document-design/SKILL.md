@@ -9,4 +9,4 @@ Design a readable document around its audience and purpose. Choose a clear type 
 
 Before changing a stored document, read [SharedBrief workflow](../../references/brief-workflow.md) and preserve its current revision, access, publication state, and stable URL.
 
-Read [the editorial design default](../../references/document-design.md) for the concrete typography, proportions and composition recipe before creating or restyling a visual document.
+Read [the content-led design default](../../references/document-design.md) for content-led composition, explanatory visuals and typography before creating or restyling a visual document.
