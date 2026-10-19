@@ -46,3 +46,7 @@ Contact support@sharedbrief.com. Operated by SnuffleLabs LLC.
 ## Marketplace compatibility
 
 This source contains Claude and Cursor manifests. Grok Build accepts the Claude manifest. Cursor uses `mcp.json`; Claude and Grok Build use `.mcp.json`. Both configurations declare the same authenticated endpoint. Marketplace submission does not mean approval or native execution verification. The repository name is retained for stable existing Claude review references.
+
+## Directory updates
+
+GitHub push notifications tell the Claude directory when this repository changes. New versions still go through the directory's checks and any required Anthropic review before becoming available.
