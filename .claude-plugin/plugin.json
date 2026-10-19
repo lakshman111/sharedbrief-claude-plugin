@@ -1,7 +1,7 @@
 {
   "name": "sharedbrief",
-  "version": "1.1.6",
-  "description": "Create, edit, and share polished briefs, proposals, reports, and one-pagers. Save private drafts, publish shareable links, update documents without changing their URLs, control access with verified sign-in or specific email addresses, and check approximate reader engagement. Includes workflows for sales, fundraising, consulting, agencies, recruiting, and team updates.",
+  "version": "1.1.7",
+  "description": "Create polished proposals, reports, presentations, client briefings, investor updates, and one-pagers in Claude. Share documents with read receipts, engagement intelligence, and access control. Preview private drafts, publish shareable links, check approximate engagement, and update documents without changing their URLs. Includes design and publishing workflows for sales, consulting, agencies, founders, and teams.",
   "author": {
     "name": "SnuffleLabs LLC",
     "email": "support@sharedbrief.com",
@@ -10,12 +10,15 @@
   "homepage": "https://www.sharedbrief.com/help",
   "keywords": [
     "documents",
-    "sales",
     "proposals",
-    "consulting",
-    "recruiting",
-    "creators",
-    "engagement"
+    "reports",
+    "presentations",
+    "one-pagers",
+    "read-receipts",
+    "engagement-intelligence",
+    "access-control",
+    "document-sharing",
+    "document-analytics"
   ],
   "repository": "https://github.com/lakshman111/sharedbrief-claude-plugin",
   "displayName": "SharedBrief",
